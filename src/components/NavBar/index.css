@@ -1,0 +1,8 @@
+nav a.active {
+  color: black;
+  font-weight: bold;
+}
+
+nav a {
+  color: grey;
+}
